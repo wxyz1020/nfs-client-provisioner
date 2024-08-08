@@ -1,1 +1,1 @@
-从 quay.io/external_storage/nfs-client-provisioner：latest
+FROM quay.io/external_storage/nfs-client-provisioner：latest
